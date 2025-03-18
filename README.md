@@ -14,7 +14,7 @@ RetailCast is an AI-powered sales forecasting tool for retail environments. Buil
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/hydrxd/RetailCast.git
    cd RetailCast
 
 2. **Install requirements for backend:**
