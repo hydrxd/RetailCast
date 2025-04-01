@@ -143,4 +143,3 @@ Allocate inventory based on forecasted demand in two modes:
 - [FastAPI](https://fastapi.tiangolo.com/) for the web framework.
 - [Prophet](https://facebook.github.io/prophet/) for the forecasting model.
 - [PuLP](https://coin-or.github.io/pulp/) for the optimization framework.
-```
