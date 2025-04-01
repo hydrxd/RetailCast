@@ -1,4 +1,3 @@
-```markdown
 # RetailCast
 
 This project provides a FastAPI-based web service that forecasts product demand and optimally allocates inventory using historical sales data. It leverages time series forecasting with Prophet and optimization with PuLP, along with data handling via pandas and visualization using Matplotlib.
