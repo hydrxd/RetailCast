@@ -41,7 +41,7 @@ pip install -r requirements.txt
    - `category`
    - `quantity`
 
-3. **Run the Application:**
+3. **Run the Backend:**
 
    Start the API using Uvicorn:
 
@@ -50,6 +50,24 @@ pip install -r requirements.txt
    ```
 
    The service will be available at `http://localhost:8000`.
+
+4. **Install requirements for Frontend:**
+
+   ```bash
+   cd Client
+   npm install
+   ```
+
+    This will install all the node modules necessary for the Frontend.
+
+4. **Run the Frontend:**
+
+   ```bash
+   npm run dev
+   ```
+
+   The service will be available at `http://localhost:5173`.
+
 
 ## API Endpoints
 
