@@ -118,11 +118,14 @@ Allocate inventory based on forecasted demand in two modes:
 
 ## Code Structure
 
-- **main.py:**  
+- **app.py:**  
   Contains the FastAPI application with endpoints for forecasting, historical data retrieval, and inventory allocation.
 
 - **synthetic_data.csv:**  
   Example data file used for demonstration purposes. Ensure your CSV file is in the correct format.
+
+- **/client:**  
+  Contains the React Frontend built for the users.
 
 ## Customization
 
